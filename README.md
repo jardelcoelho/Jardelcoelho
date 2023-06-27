@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Que possamos ter uma vida que valha a pena ser vivida!
  
 <div> 
   <a href="https://www.instagram.com/jardelscoelho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
